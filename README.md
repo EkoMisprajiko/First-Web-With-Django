@@ -1,2 +1,2 @@
 # First-Web-With-Django
-Pembuatan website pertama menggunakan farmework Django.
+This is my first website creation using the Django framework.
